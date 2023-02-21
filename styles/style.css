@@ -14,3 +14,9 @@
 img{
    height: 60%;
 }
+
+@media (max-width:756px) {
+   .card{
+      width: 100%;
+   }
+}
